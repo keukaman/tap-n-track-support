@@ -1,21 +1,61 @@
-# Privacy Policy for Tap & Track
+  # Privacy Policy
 
-*Last updated: June 6, 2025*
+  **Tap & Track**
+  Last updated: June 14, 2026
 
-Tap & Track is a local-first drink tracking app. All data you enter — drink selections, consumption counts, calorie data, and activity logs — is stored exclusively on your device and is never transmitted to any server, sold, or shared.
+  ## Overview
 
-## What We Collect
+  Tap & Track is a personal drink tracking app. All data you enter is
+  stored locally on your device and is never transmitted to any server,
+  sold, or shared.
 
-Nothing. The app collects no personal identifiers, location information, device tracking data, or usage analytics.
+  ## Data We Collect
 
-## Third-Party Services
+  **We do not collect any personal data.**
 
-The only external integration is Apple's StoreKit (via RevenueCat) for processing the one-time unlock purchase. Apple handles all payment details under their own privacy framework. The app receives only a transaction confirmation — no payment details are ever seen or stored by Tap & Track.
+  Everything you log in Tap & Track — your drink choice, serving counts,
+  calorie totals, and usage history — is stored only in a local database on
+  your iPhone. It never leaves your device.
 
-## Data Deletion
+  Specifically, the app does not collect:
 
-All data lives in a local SQLite database on your device. Deleting the app removes all associated data permanently. There are no cloud backups or server-side copies.
+  - Your name, email address, or any account credentials
+  - Location data
+  - Device identifiers or advertising IDs
+  - Crash reports or diagnostics sent to us
+  - Analytics or usage statistics
+  - Any data that could be used to identify you
 
-## Contact
+  ## Third-Party SDKs
+  Tap & Track uses Apple's StoreKit (via RevenueCat) to process the
+  one-time in-app purchase. When you make a purchase, Apple handles the
+  transaction under [Apple's Privacy 
+  Policy](https://www.apple.com/legal/privacy/). We receive only a
+  confirmation that the purchase was successful — no payment details, no
+  personal information.
 
-Questions about this policy? Reach us at [info@buffalointeractive.ai](mailto:info@buffalointeractive.ai).
+  No other third-party analytics, advertising, or data-collection SDKs are
+  included in this app.
+  
+  ## Data Storage & Deletion
+
+  All app data (drink logs, settings) lives in a SQLite database on your
+  device, inside the app's private storage. Deleting the app from your
+  iPhone permanently deletes all data. There is no cloud backup and no
+  server-side copy.
+
+  ## Children
+
+  Tap & Track does not knowingly collect data from anyone, including
+  children. Because the app collects no data at all, no special provisions
+  are required under COPPA or similar laws.
+  
+  ## Changes to This Policy
+
+  If we ever change how data is handled, we will update this page and
+  revise the "Last updated" date. Given the local-only architecture, we do
+  not anticipate material changes.
+  
+  ## Contact
+
+  Questions about this policy? Email: info@buffalointeractive.ai
